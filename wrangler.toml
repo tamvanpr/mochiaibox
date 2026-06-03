@@ -1,0 +1,10 @@
+name = "mochiaibox"
+main = "index.js"
+compatibility_date = "2025-05-30"
+
+[vars]
+GEMINI_MODEL = "gemini-2.5-flash"
+
+[[kv_namespaces]]
+binding = "MOCHI_MEMORY"
+id = "02a9ba8d1e0e40e6a90975847def82ca"
